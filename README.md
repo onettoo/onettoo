@@ -1,57 +1,59 @@
-<h1 align="center">Bernardo Netto</h1>
+<div align="center">
 
-<h3 align="center">
-  Founder at Bynex • Software Developer • AI & Automation
-</h3>
+# Bernardo Netto
 
-<p align="center">
-  Building digital products, intelligent systems and automations that solve real-world problems.
-</p>
+### Founder at Bynex • Software Developer • AI & Automation
+
+**Building digital products, intelligent systems and automations that solve real-world problems.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-onettoo-181717?style=for-the-badge\&logo=github)](https://github.com/onettoo)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:bernettooo@outlook.com)
+
+</div>
 
 ---
+
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 Who I Am
+### Who I Am
 
 I'm **Bernardo Netto**, a Software Developer, Computer Science student and Founder of **Bynex**.
 
-I enjoy transforming ideas into real digital products, combining **software development, artificial intelligence and automation**.
+I enjoy transforming ideas into real digital products by combining **software development, artificial intelligence and automation**.
 
-My goal is to build technology that is useful, scalable and capable of solving real business problems.
+My focus is on building technology that is practical, scalable and capable of solving real-world business problems.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚀 What I Build
+### What I Build
 
-- SaaS products and platforms
-- AI-powered applications
-- Business automation
-- Internal management systems
-- Custom software solutions
-- Web applications
-- System integrations
+* SaaS products and platforms
+* AI-powered applications
+* Business automation
+* Internal management systems
+* Custom software solutions
+* Web applications
+* System integrations
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 🏢 Bynex
 
-<p>
-  Founder of <strong>Bynex</strong>, a technology company focused on creating
-  modern digital solutions, intelligent systems and business automation.
-</p>
+I'm the Founder of **Bynex**, a technology company focused on creating modern digital solutions, intelligent systems and business automation.
 
-<p>
-  Our goal is to transform business challenges into practical and scalable
-  technology.
-</p>
+Our goal is to transform business challenges into **practical, efficient and scalable technology**.
 
 <table>
 <tr>
@@ -61,11 +63,11 @@ My goal is to build technology that is useful, scalable and capable of solving r
 
 Modern digital experiences for businesses.
 
-- Websites
-- Landing pages
-- Business portals
-- Web applications
-- Digital platforms
+* Websites
+* Landing pages
+* Business portals
+* Web applications
+* Digital platforms
 
 </td>
 
@@ -75,11 +77,11 @@ Modern digital experiences for businesses.
 
 Technology designed to optimize operations.
 
-- Business process automation
-- CRM integrations
-- System integrations
-- Internal workflows
-- Operational automation
+* Business process automation
+* CRM integrations
+* System integrations
+* Internal workflows
+* Operational automation
 
 </td>
 </tr>
@@ -91,11 +93,11 @@ Technology designed to optimize operations.
 
 Artificial Intelligence applied to real business needs.
 
-- AI assistants
-- Intelligent customer service
-- Internal AI tools
-- AI integrations
-- AI-powered workflows
+* AI assistants
+* Intelligent customer service
+* Internal AI tools
+* AI integrations
+* AI-powered workflows
 
 </td>
 
@@ -105,41 +107,216 @@ Artificial Intelligence applied to real business needs.
 
 Custom technology for specific business challenges.
 
-- Custom software
-- Internal systems
-- SaaS development
-- Technology projects
-- Cloud & IT solutions
+* Custom software
+* Internal systems
+* SaaS development
+* Technology projects
+* Cloud & IT solutions
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <strong>Technology that drives business.</strong>
-</p>
+<div align="center">
 
-## What I'm Currently Focused On
+### Technology that drives business.
 
-- Building SaaS products
-- AI-powered applications
-- Business automation
-- Internal management systems
-- Web platforms
-- Software architecture
-- Exploring cybersecurity
+</div>
 
 ---
 
-## Bynex
+## 🎯 Currently Focused On
 
-**Bynex** is a technology company focused on creating solutions that help businesses improve their digital presence, automate processes and build smarter systems.
+```text
+Building SaaS products            ████████████████████
+Artificial Intelligence           ███████████████████░
+Business Automation               ██████████████████░░
+Software Development              ███████████████████░
+Cybersecurity                     ███████████░░░░░░░░░
+```
 
-> Technology that drives business.
+I'm currently focused on:
 
-Main areas:
+* Developing **SaaS products**
+* Creating **AI-powered applications**
+* Building business automation systems
+* Developing internal management platforms
+* Improving software architecture knowledge
+* Exploring cybersecurity
+* Turning ideas into functional digital products
 
-**Bynex Web** — Websites, landing pages, portals and digital experiences  
-**Bynex Automation** — Process automation, CRM and integrations  
-**Bynex AI** — Intelligent assistants and AI-powered solutions  
-**Bynex Solutions** — Custom software and technology projects
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" />
+</p>
+
+### Development & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+### AI & Automation
+
+<p>
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API_Integration-111827?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### Projects I'm building and developing
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SaaS Platform
+
+Modern SaaS application focused on solving real business problems through a simple and scalable digital experience.
+
+**Focus**
+
+`SaaS` `Web` `Automation` `Business`
+
+> Repository coming soon.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI System
+
+AI-powered solution designed to automate tasks, organize information and improve operational workflows.
+
+**Focus**
+
+`Artificial Intelligence` `Automation` `APIs`
+
+> Repository coming soon.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Platform
+
+Automation system designed to connect tools, reduce repetitive processes and improve productivity.
+
+**Focus**
+
+`Automation` `Integrations` `Backend`
+
+> Repository coming soon.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Custom Software
+
+Custom software solution built around a specific operational or business requirement.
+
+**Focus**
+
+`Software` `Systems` `Architecture`
+
+> Repository coming soon.
+
+</td>
+</tr>
+</table>
+
+> As my public repositories evolve, this section will be updated with demos, screenshots, documentation and source code.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=onettoo&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onettoo&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=onettoo&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Development Philosophy
+
+> Build useful things.
+> Automate what can be automated.
+> Keep learning.
+> Turn ideas into products.
+
+I believe technology should go beyond writing code.
+
+My goal is to understand problems, design solutions and build software that provides real value to people and businesses.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in technology, software development, AI, automation, SaaS and innovative digital products.
+
+If you're working on something interesting or want to exchange ideas, feel free to reach out.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-onettoo-181717?style=for-the-badge\&logo=github)](https://github.com/onettoo)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:bernettooo@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Bernardo Netto
+
+**Founder @ Bynex • Software Developer • AI & Automation**
+
+<br>
+
+`Building • Learning • Automating • Creating`
+
+</div>
