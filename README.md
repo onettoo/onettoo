@@ -10,10 +10,37 @@
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm a Computer Science student, software developer and founder of **Bynex**, a technology company focused on creating digital solutions for businesses.
+### 👨‍💻 Who I Am
 
+I'm **Bernardo Netto**, a Software Developer, Computer Science student and Founder of **Bynex**.
+
+I enjoy transforming ideas into real digital products, combining **software development, artificial intelligence and automation**.
+
+My goal is to build technology that is useful, scalable and capable of solving real business problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 What I Build
+
+- SaaS products and platforms
+- AI-powered applications
+- Business automation
+- Internal management systems
+- Custom software solutions
+- Web applications
+- System integrations
+
+</td>
+</tr>
+</table>
+
+---
 At Bynex, I work with projects involving:
 
 - Web development and digital platforms
