@@ -1,18 +1,18 @@
 <div align="center">
 
-# Bernardo Netto
+<img src="./assets/github-banner.png.png" width="100%" alt="Bernardo Netto | Founder at Bynex">
 
-### Founder at Bynex • Software Developer • AI & Automation
+<br><br>
 
-**Building digital products, intelligent systems and automations that solve real-world problems.**
+<a href="https://github.com/onettoo">
+  <img src="https://img.shields.io/badge/GitHub-onettoo-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-onettoo-181717?style=for-the-badge\&logo=github)](https://github.com/onettoo)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:bernettooo@outlook.com)
+<a href="mailto:bernettooo@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
