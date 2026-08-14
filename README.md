@@ -127,26 +127,35 @@ Custom technology for specific business challenges.
 
 ## 🎯 Currently Focused On
 
-```text
-Building SaaS products            ████████████████████
-Artificial Intelligence           ███████████████████░
-Business Automation               ██████████████████░░
-Software Development              ███████████████████░
-Cybersecurity                     ███████████░░░░░░░░░
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm currently focused on:
+### 🚀 Building
 
-* Developing **SaaS products**
-* Creating **AI-powered applications**
-* Building business automation systems
-* Developing internal management platforms
-* Improving software architecture knowledge
-* Exploring cybersecurity
-* Turning ideas into functional digital products
+- SaaS products & platforms
+- AI-powered applications
+- Business automation
+- Internal management systems
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Exploring
+
+- Software architecture
+- Cybersecurity
+- AI agents & workflows
+- Scalable backend systems
+
+</td>
+</tr>
+</table>
+
+> Turning ideas into practical digital products — one project at a time.
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
