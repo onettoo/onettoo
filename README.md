@@ -2,14 +2,14 @@
 
 <img src="./assets/github-banner.png.png" width="100%" alt="Bernardo Netto | Founder at Bynex">
 
-<br><br>
+<br>
 
 <a href="https://github.com/onettoo">
   <img src="https://img.shields.io/badge/GitHub-onettoo-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="mailto:bernettooo@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-22C55E?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-16A34A?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
 
 </div>
@@ -18,305 +18,111 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **Bernardo Netto**, Founder of **Bynex**, Software Developer and Computer Science student.
 
-### Who I Am
+I like building digital products that combine **software development, artificial intelligence and automation**.
 
-I'm **Bernardo Netto**, a Software Developer, Computer Science student and Founder of **Bynex**.
+My focus is turning ideas and real-world problems into practical technology.
 
-I enjoy transforming ideas into real digital products by combining **software development, artificial intelligence and automation**.
+Currently working mainly with:
 
-My focus is on building practical technology capable of solving real-world problems, improving processes and creating better digital experiences.
-
-</td>
-
-<td width="50%" valign="top">
-
-### What I Build
-
-* SaaS products & platforms
-* AI-powered applications
-* Business automation
-* Internal management systems
-* Web applications
-* Custom software
-* System integrations
-* Digital tools
-
-</td>
-</tr>
-</table>
+* Software Development
+* Artificial Intelligence
+* Automation
+* SaaS
+* Web Applications
+* System Integrations
 
 ---
 
 ## 🏢 Bynex
 
-I'm the Founder of **Bynex**, a technology company focused on developing digital solutions, intelligent systems and business automation.
+I'm the Founder of **Bynex**, a technology company focused on creating digital solutions for businesses.
 
-Our goal is to transform business challenges into **practical, efficient and scalable technology**.
+At Bynex, we work with:
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* 🌐 Websites & Web Applications
+* ⚙️ Business Automation
+* 🧠 Artificial Intelligence
+* 🔗 System & API Integrations
+* 💻 Custom Software
+* ☁️ Cloud & IT Solutions
 
-### 🌐 Bynex Web
-
-Digital experiences designed for modern businesses.
-
-* Websites
-* Landing pages
-* Business portals
-* Web applications
-* Digital platforms
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Bynex Automation
-
-Technology designed to simplify operations and reduce repetitive work.
-
-* Business automation
-* CRM integrations
-* System integrations
-* Internal workflows
-* Process optimization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Bynex AI
-
-Artificial Intelligence applied to real business needs.
-
-* AI assistants
-* AI-powered customer service
-* Internal AI tools
-* AI integrations
-* Intelligent workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Bynex Solutions
-
-Custom technology built around specific business challenges.
-
-* Custom software
-* Internal systems
-* SaaS development
-* Technology projects
-* Cloud & IT solutions
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### `Technology that drives business.`
-
-</div>
+> **Technology that drives business.**
 
 ---
 
-## 🎯 Currently Focused On
+## 🚀 Currently Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm currently focused on developing:
 
-### 🚀 Building
-
-* SaaS products & platforms
+* SaaS products
 * AI-powered applications
-* Business automation
-* Internal management systems
-* Digital products
-* System integrations
+* Business automation systems
+* Internal management platforms
+* Digital tools
+* Custom software solutions
 
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Exploring
-
-* Software architecture
-* Cybersecurity
-* AI agents & workflows
-* Scalable backend systems
-* Cloud technologies
-* Advanced automation
-
-</td>
-</tr>
-</table>
-
-> Turning ideas into practical digital products — one project at a time.
+I'm also expanding my knowledge in **software architecture, cybersecurity, AI agents and scalable systems**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-
 ### Development
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,html,css" />
+<div align="center">
 
-<br><br>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
-
-<br><br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<br><br>
-
-### Development Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,html,css,react,nodejs" />
 
 </div>
 
-<br>
-
-### 🤖 AI & Automation
+### Databases & Tools
 
 <div align="center">
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge\&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-16A34A?style=for-the-badge\&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-0D1117?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-16A34A?style=for-the-badge)
-![SaaS](https://img.shields.io/badge/SaaS-0D1117?style=for-the-badge)
-![System Integration](https://img.shields.io/badge/System_Integration-16A34A?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,vscode" />
 
 </div>
 
-<br>
+### AI & Automation
 
-> My technology stack evolves according to the products I'm building and the problems I'm solving.
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-16A34A?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API_Integration-111111?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-16A34A?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Projects
 
-<div align="center">
+Some of the areas I'm currently developing projects in:
 
-### Selected products, experiments and systems
+### 🤖 Artificial Intelligence
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 SaaS Products
-
-Modern platforms designed around real-world problems and scalable digital experiences.
-
-**Main Areas**
-
-`SaaS` `Web` `Business` `Automation`
-
-> Projects and repositories will be added as they become publicly available.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Systems
-
-Applications that combine artificial intelligence with automation and practical workflows.
-
-**Main Areas**
-
-`AI` `Automation` `APIs` `Agents`
-
-> Projects and repositories will be added as they become publicly available.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+AI assistants, intelligent workflows and AI-powered applications.
 
 ### ⚙️ Automation
 
-Solutions designed to connect tools, automate repetitive work and improve operational processes.
+Systems designed to automate repetitive tasks and improve business processes.
 
-**Main Areas**
+### 🌐 SaaS & Web
 
-`Automation` `Integrations` `Backend` `Workflow`
-
-> Projects and repositories will be added as they become publicly available.
-
-</td>
-
-<td width="50%" valign="top">
+Modern digital platforms and web applications focused on real-world problems.
 
 ### 💻 Custom Software
 
-Software designed around specific business, operational and management requirements.
+Internal systems and software solutions designed for specific business needs.
 
-**Main Areas**
-
-`Software` `Systems` `Architecture` `Business`
-
-> Projects and repositories will be added as they become publicly available.
-
-</td>
-</tr>
-</table>
+> Public repositories and project documentation will be added as projects become available.
 
 ---
 
-## 🧪 Areas of Interest
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Artificial Intelligence
-
-Exploring how AI can be incorporated into products, workflows and business processes.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Automation
-
-Creating systems that reduce repetitive tasks and improve operational efficiency.
-
-</td>
-
-<td width="33%" valign="top">
-
-### Cybersecurity
-
-Expanding my knowledge of security, infrastructure and secure software development.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <div align="center">
 
@@ -326,58 +132,24 @@ Expanding my knowledge of security, infrastructure and secure software developme
 
 </div>
 
-<br>
+---
 
-<div align="center">
+## 💡 What Drives Me
 
-<img src="https://streak-stats.demolab.com?user=onettoo&theme=github-dark-blue&hide_border=true" />
+> **Build useful things.
+> Automate what can be automated.
+> Keep learning.
+> Turn ideas into products.**
 
-</div>
+Technology isn't just about writing code.
+
+For me, it's about understanding a problem and creating something that actually makes a difference.
 
 ---
 
-## 🧠 Development Philosophy
+## 🤝 Connect
 
-> **Build useful things.**
-> **Automate what can be automated.**
-> **Keep learning.**
-> **Turn ideas into products.**
-
-I believe software development goes beyond writing code.
-
-A good product starts by understanding a problem, designing a practical solution and using technology to create something that provides real value.
-
-My goal is to continuously improve as a developer while building products that combine **technology, automation and artificial intelligence**.
-
----
-
-## 🚧 Always Building
-
-```text
-01  Identify a problem
-        ↓
-02  Understand the process
-        ↓
-03  Design a solution
-        ↓
-04  Build the product
-        ↓
-05  Test & improve
-        ↓
-06  Automate
-        ↓
-07  Scale
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in:
-
-`Software Development` • `Artificial Intelligence` • `Automation` • `SaaS` • `Technology` • `Cybersecurity`
-
-If you're building something interesting, working with technology or simply want to exchange ideas, feel free to reach out.
+Interested in **Software Development, AI, Automation, SaaS and Technology**.
 
 <div align="center">
 
@@ -389,22 +161,8 @@ If you're building something interesting, working with technology or simply want
   <img src="https://img.shields.io/badge/Email-Contact_Me-16A34A?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### Bernardo Netto
-
-**Founder @ Bynex • Software Developer • AI & Automation**
-
-<br>
-
-`BUILDING` • `LEARNING` • `AUTOMATING` • `CREATING`
-
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=onettoo&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=onettoo&label=PROFILE%20VIEWS&color=16a34a&style=flat" />
 
 </div>
