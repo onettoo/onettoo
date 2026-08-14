@@ -41,19 +41,83 @@ My goal is to build technology that is useful, scalable and capable of solving r
 </table>
 
 ---
-At Bynex, I work with projects involving:
+## 🏢 Bynex
 
-- Web development and digital platforms
-- Software and custom systems
-- Artificial Intelligence solutions
+<p>
+  Founder of <strong>Bynex</strong>, a technology company focused on creating
+  modern digital solutions, intelligent systems and business automation.
+</p>
+
+<p>
+  Our goal is to transform business challenges into practical and scalable
+  technology.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Bynex Web
+
+Modern digital experiences for businesses.
+
+- Websites
+- Landing pages
+- Business portals
+- Web applications
+- Digital platforms
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Bynex Automation
+
+Technology designed to optimize operations.
+
 - Business process automation
-- CRM and system integrations
-- AI-powered customer service and internal assistants
-- Cloud and IT solutions
+- CRM integrations
+- System integrations
+- Internal workflows
+- Operational automation
 
-I enjoy building practical products that combine technology, automation and artificial intelligence to improve processes and create better digital experiences.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Bynex AI
+
+Artificial Intelligence applied to real business needs.
+
+- AI assistants
+- Intelligent customer service
+- Internal AI tools
+- AI integrations
+- AI-powered workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Bynex Solutions
+
+Custom technology for specific business challenges.
+
+- Custom software
+- Internal systems
+- SaaS development
+- Technology projects
+- Cloud & IT solutions
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <strong>Technology that drives business.</strong>
+</p>
 
 ## What I'm Currently Focused On
 
